@@ -1,1 +1,1 @@
-# ML-linearModel
+# ML-LinearRegression
