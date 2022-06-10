@@ -1,4 +1,5 @@
-## Welcome To Manchine Learing Project - SALARY PREDICTION
+## Welcome To Manchine Learing Project Team 3
+# SALARY PREDICTION
 
 ### Prediction of the salary of the employees using Regression Alogrithm.
 #### Linear Model
